@@ -3,7 +3,7 @@
 
 ## Installation
 
-To set up the Ecommerce Chatbot locally, follow these steps:
+To set up the Finance Chatbot locally, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
