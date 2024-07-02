@@ -14,7 +14,7 @@ To set up the Finance Chatbot locally, follow these steps:
 ```
    conda create -n finance python=3.10 -y
    activate the conda environment
-   conda activate ecommbot
+   conda activate finance
 ```
 
 3. Install the required Python packages using pip:
